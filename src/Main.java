@@ -92,5 +92,5 @@ public class Main {
         for(Bejegyzes bejegyzes:lista1){
             System.out.println(bejegyzes);
         }
-    }
+    }//c
 }
